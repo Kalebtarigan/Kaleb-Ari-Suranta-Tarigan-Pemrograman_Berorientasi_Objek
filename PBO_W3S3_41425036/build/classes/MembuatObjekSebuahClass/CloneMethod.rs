@@ -1,0 +1,1 @@
+MembuatObjekSebuahClass.Geeks
