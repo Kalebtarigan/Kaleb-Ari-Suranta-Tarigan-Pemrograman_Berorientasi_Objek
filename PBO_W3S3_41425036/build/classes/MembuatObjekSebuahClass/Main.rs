@@ -1,0 +1,2 @@
+MembuatObjekSebuahClass.Student
+MembuatObjekSebuahClass.Main
